@@ -5,7 +5,7 @@
 * Returns Keras type Tokenizer
 * It uses the keras Tokenizer: 
 
-  * **num_words**: the maximum number of words to keep, based on word frequency. Only the most common num_words *  * * words will be kept.
+  * **num_words**: the maximum number of words to keep, based on word frequency. Only the most common num_words *  *  will be kept.
   * **filters**: a string where each element is a character that will be filtered from the texts. The default is all punctuation, plus tabs and line breaks, minus the ' character.
   * **lower**: boolean. Whether to convert the texts to lowercase.
   * **split**: str. Separator for word splitting.
