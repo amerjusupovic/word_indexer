@@ -46,4 +46,4 @@ tk.word_docs - dictionary word : how many documents it appears in
 **Thank you for using my code!**
 
 Check out more useful tools: 
-[GeorgeM](https://gmihaila.github.io)
+[GeorgeM](https://github.com/gmihaila?tab=repositories)
