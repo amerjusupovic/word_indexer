@@ -40,3 +40,10 @@ tk.document_count - number of documents (should match data size)
 tk.word_index - dictionary word : index ascending order from moest frequent
 tk.word_docs - dictionary word : how many documents it appears in
 ```
+
+## Please see tokenizer_fit.ipynb
+
+**Thank you for using my code!**
+
+Check out more useful tools: 
+[GeorgeM](https://gmihaila.github.io)
