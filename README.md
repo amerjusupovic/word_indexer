@@ -41,7 +41,7 @@ tk.word_index - dictionary word : index ascending order from moest frequent
 tk.word_docs - dictionary word : how many documents it appears in
 ```
 
-## Please see tokenizer_fit.ipynb
+## Please see [tokenizer_fit.ipynb](https://github.com/gmihaila/word_indexer/blob/master/tokenizer_fit.ipynb)
 
 **Thank you for using my code!**
 
